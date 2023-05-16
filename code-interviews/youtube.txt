@@ -1,0 +1,57 @@
+Spring Boot Microservice Project Full Course in 6 Hours : 
+https://www.youtube.com/watch?v=mPPhcU7oWDU&t=10901s
+
+Cypress E2E Web Automation | Introduction | 2022 Series
+https://www.youtube.com/watch?v=69SFwgWHUig&list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU
+
+JavaScript Module Pattern and Revealing Module Pattern
+https://www.youtube.com/watch?v=CNohrcgM_hU&list=PLqkLaKB2GJhWXV9rcarwvn06ISlL_9mPQ&index=16
+
+https://www.youtube.com/watch?v=IQuG77FNMhw (Rahul Sheetty Academy)
+
+https://www.youtube.com/watch?v=lkIFF4maKMU ( Fireship)
+
+https://www.youtube.com/watch?v=jS4aFq5-91M&t=13918s ( javaScript with FreeCodeCamp)
+
+https://www.youtube.com/watch?v=8dWL3wF_OMw  ( Bro full javaScript)
+
+
+Java Full Course
+https://www.youtube.com/watch?v=xk4_1vDrzzo&t=20388s
+
+AEM Tutorial
+https://www.youtube.com/watch?v=2Vi7Zt52I_A&list=PLEaEQSM_Y4tmJjQICTFDm2lU5mNmd_Oar&index=7
+
+Cypress Introduction, Architecture & Installation
+https://www.youtube.com/watch?v=_DxIITbHtxE&list=PLMZdod-kiMhKiRztQX_rng7EfcI5OteMR
+
+
+English lessons:
+https://www.youtube.com/watch?v=ld7RqdoRAM0&t=7083s
+
+
+RestAssured lesson:
+https://www.youtube.com/watch?v=4Jfb6jicH2U&list=PL-a9eJ2NZlbT0Hoo_Hj43utwgq2VusPyN&index=72
+
+
+API Automation Testing Full Courses using Mocha and chai
+https://www.youtube.com/watch?v=yuRCVJAuhfA&t=377s
+
+MOCHA and CHAI Testing | Chai and mocha js tutorial | MOCHA CHAI
+https://www.youtube.com/watch?v=d8zqoftcidw&list=PLYDwWPRvXB89dhjtwwB0vRAcGYa986QiN
+
+
+Cypress API with Naveen automationLabs
+https://www.youtube.com/watch?v=b7BmxtLEIkg&list=PLFGoYjJG_fqo3DcVuA-YDfyhrxY4ChGqm&index=13
+
+
+Git and GitHub for Beginners - Crash Course
+
+https://www.youtube.com/watch?v=RGOj5yH7evk&t=1020s
+
+
+Jenkins Tutorial – How to Deploy a Test Server with Docker + Linux (Full Course)
+https://www.youtube.com/watch?v=f4idgaq2VqA
+
+FreeCodeCamp: Learn JavaScript - Full Course for Beginners
+https://www.youtube.com/watch?v=PkZNo7MFNFg
